@@ -1,0 +1,3 @@
+1- adicionar codigo que não permita que o usuário digite data e hora com formatos e caracteres inválidos.
+2- usar CPF para cadastrar e cancelar clientes, não permitindo cadastrar um cliente mais de uma vez ou cancelar cadastro por engano.
+3- formatar informações pessoais como CPF do cliente com (xxx.xxx.xxx-xx).
